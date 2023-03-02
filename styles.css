@@ -1,0 +1,80 @@
+body {
+  font-family: bahnschrift, sans-serif;
+  font-size: clamp(0.9rem, 1vw, 1rem);
+ 
+}
+
+
+.contenedor {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: stretch;
+  gap: 20px;
+  margin: 20px auto;
+  min-width: 75vw;
+} 
+  .item {
+    padding: 10px;
+    text-align: center;
+    box-shadow: rgb(149 157 165 / 20%) 0px 8px 24px;
+    min-width: 250px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 20%;
+}
+  .item:hover {
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 125 194 / 19%);
+}
+.item img{
+height: 250px;
+object-fit: cover;
+
+}
+
+.item img:hover {
+  opacity: .5
+}
+.btn {
+    padding: 2px;
+    background: #007cc3;
+    margin: 5px auto;
+    width: 90%;
+    cursor: pointer;
+    border:none
+}
+
+.btn:hover{
+  box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 125 194 / 19%);
+}
+
+p{
+  font-family: Oswald, sans-serif;
+  font-size: 1rem;
+  margin: 5px;
+  padding: 5px;
+  text-align: center;
+}
+.fecha{
+  font-size: 0.8rem;
+  color: grey;
+  
+  }
+
+.titular{
+  color: #007cc3;
+  text-transform: uppercase;
+}
+
+
+.moreinfo{
+  color: #fff;
+  text-transform: uppercase;
+}
+
+a{
+  text-decoration: none;
+}
+
+
