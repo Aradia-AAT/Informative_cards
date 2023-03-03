@@ -6,4 +6,4 @@ Check it out at CodePen:
 
 https://codepen.io/Aradia-AAT/pen/WNgpBMO
 
-![Captura](https://user-images.githubusercontent.com/118825363/222462012-1e67c279-8d53-465f-83de-2e9867721271.PNG)
+![Sin título-1](https://user-images.githubusercontent.com/118825363/222658441-5b57a69f-a2f0-4053-88ec-23b8be99a944.jpg)
